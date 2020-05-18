@@ -6,8 +6,20 @@
     <description>Recent content on Thomas Tetlaw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 20:39:03 +0800</lastBuildDate>
     
 	<atom:link href="https://tomtetlaw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://tomtetlaw.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 18 May 2020 20:39:03 +0800</pubDate>
+      
+      <guid>https://tomtetlaw.github.io/posts/my-first-post/</guid>
+      <description>Hello, world!</description>
+    </item>
     
     
   </channel>
